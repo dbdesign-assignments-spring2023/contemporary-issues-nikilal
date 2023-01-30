@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# The Effect of ChatGPT in Schools
+### Niki Lal
+In this assignment I will be exploring 2 different articles giving their perspectives on wether ChatGPT is harmful or beneficial to the classroom.
+## Article 1 
+In _The Atlantic's_ [The End of High-School English](https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/) a seasoned English teacher writes about his concerns with ChatGPT and the effect it has begun to have on his students. He is shocked by the endless amounts of advanced essays that ChatGPT can produce and has concerns with his students using the AI software instead of writing. He fears that this will cause even further disinterest and effort in writing within his English students, and eventually comes to the conclusion that learning advanced writing skills in schools may become obselete.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+While the author of this article does acknowledge his fascination with ChatGPT and the potential opportunities that may arise with it he overall has a pessimistic outlook on what effect ChatGPT will have on education and English classes around the country. Since the creation of the AI software, the author questions whether teenagers even need to develop basic writing skills in order to be prepared for life after high school. The article ends on quite a negative note, where the author wonders if English classes will even be necessary at schools in the future.
+
+## Article 2
+In _The74's_ article [Schools Must Embrace the Looming Disruption of ChatGPT](https://www.the74million.org/article/schools-must-embrace-the-looming-disruption-of-chatgpt/) Author Sarah Dillard has a slightly more positive outlook on the effects that AI softwares like ChatGPT could have in schools. While she aknowledges the fact that it will drastically change the basic cirriculum in schools as we know it, she points out that it may not necessarily be a bad thing.
+
+Dillard argues that administrators who attempt to ban ChatGPT from their school districts are being close-minded and are unwilling to accept the changes and potentials AI software could have on education. She lists a number of examples of how schools can adapt their cirriculum to fit a world that is currently making continuous advancements in technology. She argues that it could be beneficial to teachers who could use ChatGPT to generate lecture notes and test questions. She also proposes that with AI generated writings, students could be challenged in their education by sharing their personal perspectives in their writing and completing assignments based on determining what is "true" from what is just "authoritative-sounding."
